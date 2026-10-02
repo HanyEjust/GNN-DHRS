@@ -1,6 +1,6 @@
 # GNN-DHRS
 
-## Graph Neural Network with Dual Hybrid Resampling Strategy for Imbalanced Stroke Prediction
+## An Explainable Graph Attention Framework with Dual Hybrid Resampling for Imbalanced Brain Stroke Prediction
 
 This repository provides the implementation and reproducibility framework for **GNN-DHRS**, a graph-based machine-learning framework developed for stroke prediction under severe class imbalance.
 
