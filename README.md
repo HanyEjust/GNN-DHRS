@@ -7,6 +7,7 @@ This repository provides the implementation and reproducibility framework for **
 GNN-DHRS combines a **Dual Hybrid Resampling Strategy (DHRS)** with **patient-similarity graph construction** and a **multi-head Graph Attention Network (GAT)**. The experimental framework is designed around leakage-safe preprocessing, strictly inductive evaluation, nested cross-validation, imbalance-aware performance assessment, explainability analysis, robustness testing, and cross-dataset evaluation.
 
 The repository is provided to support **scientific transparency, reproducibility, and independent validation** of the experiments reported in the associated research paper.
+![System architecture]<img width="1570" height="1002" alt="gnn_dhrs_framework_" src="https://github.com/user-attachments/assets/2ed09253-4e6b-447f-9ef8-83fd69c004c4" />
 
 ---
 
