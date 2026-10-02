@@ -3,6 +3,7 @@
 Official reproducibility implementation for **“An Explainable Graph Attention Framework with Dual Hybrid Resampling for Imbalanced Brain Stroke Prediction.”**
 
 GNN-DHRS is an explainable graph-attention framework for imbalanced stroke prediction. The repository implements leakage-safe preprocessing, the Dual Hybrid Resampling Strategy (DHRS), patient-similarity graph construction, similarity-aware multi-head graph attention, weighted optimization, nested cross-validation, strictly inductive test inference, conventional and graph-learning baselines, FT-Transformer comparisons, cross-dataset evaluation, ablation studies, calibration, selective prediction, robustness analysis, statistical validation, computational profiling, scalability analysis, and feature- and graph-level explainability.
+![System architecture]<img width="1570" height="1002" alt="gnn_dhrs_framework_" src="https://github.com/user-attachments/assets/2ed09253-4e6b-447f-9ef8-83fd69c004c4" />
 
 The repository is designed to **calculate experimental results from the supplied datasets**. Manuscript performance values are not hard-coded into the implementation.
 
